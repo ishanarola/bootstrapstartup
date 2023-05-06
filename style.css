@@ -14,7 +14,7 @@ html {
 
 .centerTxt{
   color:white;
-  font-size:2rem;
+  font-size:3rem;
 }
 
 .btn{
@@ -26,6 +26,8 @@ html {
   }
 
 .btn-warning{
+      padding: 10px 20px;
+    font-size: 15px;
   background-color: #f05f44;
   border-color: transparent;
   --bs-btn-hover-bg: #ee4b08; 
@@ -40,7 +42,7 @@ html {
   padding:1rem 2rem;
 }
 hr {
-    margin: 70px auto 20px;
+    margin: 175px auto 20px;
     color: #F05F44;
     border: 3px solid #F05F44;
     max-width: 65px;
